@@ -1,0 +1,28 @@
+{
+  "name": "travis-sample",
+  "title": "Travis Sample",
+  "description": "Travis CI Sample",
+  "version": "1.0.0",
+  "homepage": "https://github.com/STAR-ZERO/jquery-travis-sample",
+  "author": {
+    "name": "STAR_ZERO",
+    "email": "kenji.01.star@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:STAR-ZERO/jquery-travis-sample.git"
+  },
+  "bugs": {
+    "url": "https://github.com/STAR-ZERO/jquery-travis-sample/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/STAR-ZERO/jquery-travis-sample/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "*"
+  },
+  "keywords": []
+}
